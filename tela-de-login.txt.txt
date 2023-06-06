@@ -1,0 +1,6 @@
+A tela de login será necessário conter: 
+
+-email:
+-senha: 
+
+Obs! Email e senha já terão que estar cadastrados no banco de dados e na hora do login, email e senha terão que ser válidos. 
